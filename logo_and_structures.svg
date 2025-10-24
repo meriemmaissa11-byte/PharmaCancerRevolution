@@ -1,6 +1,6 @@
 <svg width="1200" height="1600" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
-  <rect width="1200" height="1600" fill="#f8f9fa"/>
+  <rect width="1200" height="1600" fill="#FFB6C1"/>
   
   <!-- Logo Section -->
   <g id="logo">
@@ -14,10 +14,10 @@
     
     <!-- Title -->
     <text x="600" y="220" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#2c3e50">
-      PharmaCancerRevolution
+      ONCONOVACANCER
     </text>
     <text x="600" y="260" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#7f8c8d">
-      Next-Generation Prostate Cancer Therapeutics
+      future wave Prostate Cancer Therapeutics
     </text>
   </g>
   
